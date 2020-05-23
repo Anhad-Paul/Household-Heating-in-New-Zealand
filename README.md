@@ -5,7 +5,7 @@ The research required for this report was conducted using statistics primarily f
 
 The benefits of this strategy included: 
 
-• Potential elimination of 972557 to 1021185 tonnes of CO2, 102374 to 107493 tonnes of Nitrogen Dioxide and 35831 to 37623 tonnes of methane from the air per year resulting in improved overall air quality. 
+• Elimination of 972557 to 1021185 tonnes of CO2, 102374 to 107493 tonnes of Nitrogen Dioxide and 35831 to 37623 tonnes of methane from the air per year resulting in improved overall air quality. 
 
 • Giving Kiwis a difference of up to $196 in their annual energy bill when switching to heat pumps. 
 
